@@ -1,0 +1,4 @@
+.idea
+docker/mariadb/datas/*
+docker/postgresql/datas/*
+logs/*
